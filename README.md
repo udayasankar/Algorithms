@@ -6,7 +6,7 @@ Useful Algorithms
  <th>Usecases</th>
  <tr>
    <td>𝐁𝐥𝐨𝐨𝐦 𝐅𝐢𝐥𝐭𝐞𝐫</td>
-   <td>◾ A space-efficient probabilistic data structure used to test whether an element is a member of a set.
+   <td style="word-wrap: break-word">◾ A space-efficient probabilistic data structure used to test whether an element is a member of a set.
        ◾ False positives are possible, but false negatives are not.
    </td>
    <td>◾ Checking if a username is available.
