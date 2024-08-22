@@ -1,99 +1,133 @@
 # Algorithms
 Useful Algorithms
 <table>
+ <th>No</th>
  <th>Algorithm</th>
  <th>Description</th>
  <th>Usecases</th>
  <tr>
+  <td>1</td>
    <td>𝐁𝐥𝐨𝐨𝐦 𝐅𝐢𝐥𝐭𝐞𝐫</td>
-   <td style="word-wrap: break-word">◾ A space-efficient probabilistic data structure used to test whether an element is a member of a set.
+   <td style="word-wrap: break-word">
+       ◾ A space-efficient probabilistic data structure used to test whether an element is a member of a set.
        ◾ False positives are possible, but false negatives are not.
    </td>
-   <td style="word-wrap: break-word">◾ Checking if a username is available.
+   <td style="word-wrap: break-word">
+       ◾ Checking if a username is available.
        ◾ Identifying potentially malicious URLs in a web crawler.
    </td>
  </tr> 
   <tr>
+   <td>2</td>
    <td>𝐅𝐫𝐮𝐠𝐚𝐥 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠</td>
-   <td>◾ A memory-efficient algorithm to compute quantiles (e.g., median, percentiles) over streaming data.
+   <td style="word-wrap: break-word">
+    ◾ A memory-efficient algorithm to compute quantiles (e.g., median, percentiles) over streaming data.
    </td>
-   <td>◾ Real-time monitoring of website response times.
+   <td style="word-wrap: break-word">
+       ◾ Real-time monitoring of website response times.
        ◾ Analyzing large-scale sensor data.
    </td>
  </tr> 
-</table>
-
-
-3. 𝐆𝐞𝐨𝐡𝐚𝐬𝐡/𝐒2 𝐆𝐞𝐨𝐦𝐞𝐭𝐫𝐲
-◾ Geospatial indexing systems that divide the Earth's surface into hierarchical grids for efficient spatial queries.
-
-Use Cases
-◾ Location-based services (finding nearby restaurants, stores, etc.).
-◾ Proximity searches (matching users based on location).
-etc.
-
-4. 𝐇𝐲𝐩𝐞𝐫𝐋𝐨𝐠𝐋𝐨𝐠:
-◾ A probabilistic algorithm for estimating the number of distinct elements (cardinality) in a data set with high accuracy and low memory usage.
-
-Use Cases
-◾ Counting unique visitors to a website.
-◾ Analyzing user behavior patterns.
-etc.
-
-5. 𝐋𝐞𝐚𝐤𝐲 𝐁𝐮𝐜𝐤𝐞𝐭/𝐓𝐨𝐤𝐞𝐧 𝐁𝐮𝐜𝐤𝐞𝐭
-◾ Algorithms used to control the rate of traffic flow in a network or system, preventing overload.
-
-Use Cases
-◾ Rate limiting API requests.
-◾ Smoothing out bursty traffic.
-etc.
-
-6. 𝐋𝐨𝐬𝐬𝐲 𝐂𝐨𝐮𝐧𝐭
-◾ An algorithm for finding frequent items in a data stream, particularly when memory is limited. It allows for some error to save space.
-
-Use Cases
+   <tr>
+    <td>3</td>
+   <td>𝐆𝐞𝐨𝐡𝐚𝐬𝐡/𝐒2 𝐆𝐞𝐨𝐦𝐞𝐭𝐫𝐲</td>
+   <td style="word-wrap: break-word">
+   ◾ Geospatial indexing systems that divide the Earth's surface into hierarchical grids for efficient spatial queries.
+   </td>
+   <td style="word-wrap: break-word">
+         ◾ Location-based services (finding nearby restaurants, stores, etc.).
+         ◾ Proximity searches (matching users based on location).
+   </td>
+ </tr> 
+  <tr>
+    <td>4</td>
+   <td>𝐇𝐲𝐩𝐞𝐫𝐋𝐨𝐠𝐋𝐨𝐠:</td>
+   <td style="word-wrap: break-word">
+       ◾ A probabilistic algorithm for estimating the number of distinct elements (cardinality) in a data set with high accuracy and low memory usage.
+   </td>
+   <td style="word-wrap: break-word">
+         ◾ Counting unique visitors to a website.
+         ◾ Analyzing user behavior patterns.
+   </td>
+ </tr>
+   <tr>
+    <td>5</td>
+   <td>𝐋𝐞𝐚𝐤𝐲 𝐁𝐮𝐜𝐤𝐞𝐭/𝐓𝐨𝐤𝐞𝐧 𝐁𝐮𝐜𝐤𝐞𝐭</td>
+   <td style="word-wrap: break-word">
+      ◾ Algorithms used to control the rate of traffic flow in a network or system, preventing overload.
+   </td>
+   <td style="word-wrap: break-word">
+        ◾ Rate limiting API requests.
+        ◾ Smoothing out bursty traffic.
+   </td>
+ </tr> 
+  <tr>
+    <td>6</td>
+   <td>𝐋𝐨𝐬𝐬𝐲 𝐂𝐨𝐮𝐧𝐭</td>
+   <td style="word-wrap: break-word">
+     ◾ An algorithm for finding frequent items in a data stream, particularly when memory is limited. It allows for some error to save space.
+   </td>
+   <td style="word-wrap: break-word">
 ◾ Identifying trending topics on social media.
 ◾ Finding popular products in an e-commerce store.
-etc.
-
-7. 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 (𝐎𝐓)
+   </td>
+ </tr> 
+   <tr>
+    <td>7</td>
+   <td>𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 (𝐎𝐓)</td>
+   <td style="word-wrap: break-word">
 ◾ A technique for enabling concurrent editing of shared documents while maintaining consistency.
-
-Use Cases
+   </td>
+   <td style="word-wrap: break-word">
 ◾ Collaborative text editors (like Google Docs).
 ◾ Real-time code collaboration tools.
 ◾ Collaborative drawing applications.
-etc.
-
-8. 𝐐𝐮𝐚𝐝𝐭𝐫𝐞𝐞/𝐑-𝐓𝐫𝐞𝐞
+   </td>
+ </tr> 
+  <tr>
+    <td>8</td>
+   <td>𝐐𝐮𝐚𝐝𝐭𝐫𝐞𝐞/𝐑-𝐓𝐫𝐞𝐞</td>
+   <td style="word-wrap: break-word">
 ◾ Data structures for indexing multi-dimensional data (e.g., spatial data).
-
-Use Cases
+   </td>
+   <td style="word-wrap: break-word">
 ◾ Spatial databases.
 ◾ Collision detection in video games.
-etc.
-
-9. 𝐑𝐚𝐲 𝐂𝐚𝐬𝐭𝐢𝐧𝐠
+   </td>
+ </tr> 
+ <tr>
+    <td>9</td>
+   <td> 𝐑𝐚𝐲 𝐂𝐚𝐬𝐭𝐢𝐧𝐠</td>
+   <td style="word-wrap: break-word">
 ◾ A technique in computer graphics used to determine which objects in a scene are intersected by a ray (e.g., from the viewer's eye).
-
-Use Cases
+   </td>
+   <td style="word-wrap: break-word">
 ◾ Rendering 3D scenes.
 ◾ Line of sight calculations.
 ◾ Hidden surface removal.
-etc.
-
-10. 𝐑𝐞𝐯𝐞𝐫𝐬𝐞 𝐈𝐧𝐝𝐞𝐱
+   </td>
+ </tr> 
+ <tr>
+    <td>10</td>
+   <td>𝐑𝐞𝐯𝐞𝐫𝐬𝐞 𝐈𝐧𝐝𝐞𝐱</td>
+   <td style="word-wrap: break-word">
 ◾ A data structure that maps terms (words or phrases) to the documents containing them.
-
-Use Cases
+   </td>
+   <td style="word-wrap: break-word">
 ◾ Full-text search engines.
 ◾ Document retrieval systems.
-etc.
-
-11. 𝐑𝐬𝐲𝐧𝐜 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦
+   </td>
+ </tr> 
+  <tr>
+    <td>11</td>
+   <td>𝐑𝐬𝐲𝐧𝐜 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦</td>
+   <td style="word-wrap: break-word">
 ◾ A file synchronization algorithm that minimizes data transfer by only sending differences between files.
-
-Use Cases
+   </td>
+   <td style="word-wrap: break-word">
 ◾ File backups.
 ◾ Remote file synchronization.
 ◾ Version control systems.
+   </td>
+ </tr> 
+</table>
