@@ -6,21 +6,23 @@ Useful Algorithms
  <th>Usecases</th>
  <tr>
    <td>𝐁𝐥𝐨𝐨𝐦 𝐅𝐢𝐥𝐭𝐞𝐫</td>
-   <td>◾ A space-efficient probabilistic data structure used to test whether an element is a member of a set. \n
-◾ False positives are possible, but false negatives are not.</td>
-   <td>◾ Checking if a username is available. \n
-◾ Identifying potentially malicious URLs in a web crawler.
-</td>
+   <td>◾ A space-efficient probabilistic data structure used to test whether an element is a member of a set.
+       ◾ False positives are possible, but false negatives are not.
+   </td>
+   <td>◾ Checking if a username is available.
+       ◾ Identifying potentially malicious URLs in a web crawler.
+   </td>
+ </tr> 
+  <tr>
+   <td>𝐅𝐫𝐮𝐠𝐚𝐥 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠</td>
+   <td>◾ A memory-efficient algorithm to compute quantiles (e.g., median, percentiles) over streaming data.
+   </td>
+   <td>◾ Real-time monitoring of website response times.
+       ◾ Analyzing large-scale sensor data.
+   </td>
  </tr> 
 </table>
 
-2. 𝐅𝐫𝐮𝐠𝐚𝐥 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠
-◾ A memory-efficient algorithm to compute quantiles (e.g., median, percentiles) over streaming data.
-
-Use Cases
-◾ Real-time monitoring of website response times.
-◾ Analyzing large-scale sensor data.
-etc.
 
 3. 𝐆𝐞𝐨𝐡𝐚𝐬𝐡/𝐒2 𝐆𝐞𝐨𝐦𝐞𝐭𝐫𝐲
 ◾ Geospatial indexing systems that divide the Earth's surface into hierarchical grids for efficient spatial queries.
