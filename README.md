@@ -5,6 +5,7 @@ Useful Algorithms
  <th>Algorithm</th>
  <th>Description</th>
  <th>Usecases</th>
+ <th>Useful Links</th>
  <tr>
   <td>1</td>
    <td>𝐁𝐥𝐨𝐨𝐦 𝐅𝐢𝐥𝐭𝐞𝐫</td>
@@ -129,5 +130,35 @@ Useful Algorithms
 ◾ Remote file synchronization.
 ◾ Version control systems.
    </td>
+ </tr> 
+   <tr>
+    <td>12</td>
+   <td>Geohash</td>
+   <td style="word-wrap: break-word">
+◾ Location based service.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+   <td>https://www.pubnub.com/learn/glossary/what-is-geohashing/</td> 
+ </tr> 
+    <tr>
+    <td>13</td>
+   <td>Quadtree</td>
+   <td style="word-wrap: break-word">
+◾ Location based service.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+   <td>https://engblog.yext.com/post/geolocation-caching</td> 
+ </tr> 
+ <tr>
+    <td>14</td>
+   <td>Consistent hashing</td>
+   <td style="word-wrap: break-word">
+◾ Balance the load within a cluster of services.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+   <td>https://www.toptal.com/big-data/consistent-hashing</td> 
  </tr> 
 </table>
