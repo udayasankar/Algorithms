@@ -30,6 +30,7 @@ Useful Algorithms
        ◾ Real-time monitoring of website response times.
        ◾ Analyzing large-scale sensor data.
    </td>
+   <td></td>
  </tr> 
    <tr>
     <td>3</td>
@@ -41,17 +42,20 @@ Useful Algorithms
          ◾ Location-based services (finding nearby restaurants, stores, etc.).
          ◾ Proximity searches (matching users based on location).
    </td>
+     <td></td>
  </tr> 
   <tr>
     <td>4</td>
    <td>𝐇𝐲𝐩𝐞𝐫𝐋𝐨𝐠𝐋𝐨𝐠:</td>
    <td style="word-wrap: break-word">
        ◾ A probabilistic algorithm for estimating the number of distinct elements (cardinality) in a data set with high accuracy and low memory usage.
+     ◾ Count unique values fast.
    </td>
    <td style="word-wrap: break-word">
          ◾ Counting unique visitors to a website.
          ◾ Analyzing user behavior patterns.
    </td>
+   <td>https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/</td>
  </tr>
    <tr>
     <td>5</td>
@@ -63,6 +67,7 @@ Useful Algorithms
         ◾ Rate limiting API requests.
         ◾ Smoothing out bursty traffic.
    </td>
+     <td></td>
  </tr> 
   <tr>
     <td>6</td>
@@ -74,6 +79,7 @@ Useful Algorithms
 ◾ Identifying trending topics on social media.
 ◾ Finding popular products in an e-commerce store.
    </td>
+    <td></td>
  </tr> 
    <tr>
     <td>7</td>
@@ -86,6 +92,7 @@ Useful Algorithms
 ◾ Real-time code collaboration tools.
 ◾ Collaborative drawing applications.
    </td>
+    <td>https://en.wikipedia.org/wiki/Operational_transformation</td>
  </tr> 
   <tr>
     <td>8</td>
@@ -97,6 +104,7 @@ Useful Algorithms
 ◾ Spatial databases.
 ◾ Collision detection in video games.
    </td>
+    <td></td>
  </tr> 
  <tr>
     <td>9</td>
@@ -109,6 +117,7 @@ Useful Algorithms
 ◾ Line of sight calculations.
 ◾ Hidden surface removal.
    </td>
+   <td></td>
  </tr> 
  <tr>
     <td>10</td>
@@ -120,6 +129,7 @@ Useful Algorithms
 ◾ Full-text search engines.
 ◾ Document retrieval systems.
    </td>
+   <td></td>
  </tr> 
   <tr>
     <td>11</td>
@@ -132,6 +142,7 @@ Useful Algorithms
 ◾ Remote file synchronization.
 ◾ Version control systems.
    </td>
+    <td></td>
  </tr> 
    <tr>
     <td>12</td>
@@ -222,5 +233,35 @@ Useful Algorithms
    <td style="word-wrap: break-word">
    </td>
    <td>https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html</td> 
+ </tr> 
+     <tr>
+    <td>20</td>
+   <td>Merkle tree</td>
+   <td style="word-wrap: break-word">
+◾ Identify Inconsistencies between nodes.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+   <td>https://en.wikipedia.org/wiki/Merkle_tree</td> 
+ </tr> 
+  <tr>
+    <td>21</td>
+   <td>Count-min sketch</td>
+   <td style="word-wrap: break-word">
+◾ Estimate frequencies of items.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+   <td>https://florian.github.io/count-min-sketch/</td> 
+ </tr> 
+  <tr>
+    <td>22</td>
+   <td>Hierarchical timing wheels</td>
+   <td style="word-wrap: break-word">
+◾ Job scheduler.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+   <td>https://www.cse.wustl.edu/~cdgill/courses/cs6874/TimingWheels.ppt</td> 
  </tr> 
 </table>
