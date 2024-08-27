@@ -265,3 +265,93 @@ Useful Algorithms
    <td>https://www.cse.wustl.edu/~cdgill/courses/cs6874/TimingWheels.ppt</td> 
  </tr> 
 </table>
+
+Data Structures That Power Your Databases
+<table>
+ <th>No</th>
+ <th>Algorithm</th>
+ <th>Description</th>
+ <th>Usecases</th>
+ <th>Useful Links</th>
+ <tr>
+  <td>1</td>
+   <td>Skiplist</td>
+   <td style="word-wrap: break-word">
+       ◾ a common in-memory index type. Used in Redis.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr> 
+ <tr>
+  <td>2</td>
+   <td>Hash index</td>
+   <td style="word-wrap: break-word">
+       ◾  a very common implementation of the “Map” data structure (or “Collection”).
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr>  
+ <tr>
+  <td>3</td>
+   <td>SSTable</td>
+   <td style="word-wrap: break-word">
+       ◾  immutable on-disk “Map” implementation.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr>  
+ <tr>
+  <td>4</td>
+   <td>LSM tree</td>
+   <td style="word-wrap: break-word">
+       ◾  Skiplist + SSTable. High write throughput.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr>   
+ <tr>
+  <td>5</td>
+   <td>B-tree</td>
+   <td style="word-wrap: break-word">
+       ◾  disk-based solution. Consistent read/write performance.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr>    
+ <tr>
+  <td>6</td>
+   <td>Inverted index</td>
+   <td style="word-wrap: break-word">
+       ◾  used for document indexing. Used in Lucene.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr>   
+ <tr>
+  <td>7</td>
+   <td>Suffix tree</td>
+   <td style="word-wrap: break-word">
+       ◾  for string pattern search.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr>   
+ <tr>
+  <td>8</td>
+   <td>R-tree</td>
+   <td style="word-wrap: break-word">
+       ◾ multi-dimension search, such as finding the nearest neighbor.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr>    
+</table> 
+ 
