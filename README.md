@@ -354,4 +354,103 @@ Data Structures That Power Your Databases
   <td></td>
  </tr>    
 </table> 
+
+Data structures
+<table>
+ <th>No</th>
+ <th>Algorithm</th>
+ <th>Description</th>
+ <th>Usecases</th>
+ <th>Useful Links</th>
+ <tr>
+  <td>1</td>
+   <td>list</td>
+   <td style="word-wrap: break-word">
+       ◾ keep your Twitter feeds.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr> 
+ <tr>
+  <td>2</td>
+   <td>stack</td>
+   <td style="word-wrap: break-word">
+       ◾ support undo/redo of the word editor.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr>  
+ <tr>
+  <td>3</td>
+   <td>queue</td>
+   <td style="word-wrap: break-word">
+       ◾ keep printer jobs, or send user actions in-game.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr>   
+  <tr>
+  <td>4</td>
+   <td>heap</td>
+   <td style="word-wrap: break-word">
+       ◾ task scheduling.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr> 
+  <tr>
+  <td>5</td>
+   <td>tree</td>
+   <td style="word-wrap: break-word">
+       ◾ keep the HTML document, or for AI decision.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr>  
+  <tr>
+  <td>6</td>
+   <td>suffix tree</td>
+   <td style="word-wrap: break-word">
+       ◾ for searching string in a document.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr>  
+  <tr>
+  <td>7</td>
+   <td>graph</td>
+   <td style="word-wrap: break-word">
+       ◾ for tracking friendship, or path finding.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr>   
+  <tr>
+  <td>8</td>
+   <td>r-tree</td>
+   <td style="word-wrap: break-word">
+       ◾ for finding the nearest neighbor.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr>   
+  <tr>
+  <td>9</td>
+   <td>vertex buffer</td>
+   <td style="word-wrap: break-word">
+       ◾ for sending data to GPU for rendering.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+  <td></td>
+ </tr>     
+</table> 
  
