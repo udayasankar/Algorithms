@@ -12,11 +12,13 @@ Useful Algorithms
    <td style="word-wrap: break-word">
        ◾ A space-efficient probabilistic data structure used to test whether an element is a member of a set.
        ◾ False positives are possible, but false negatives are not.
+    ◾ Eliminate costly lookup.
    </td>
    <td style="word-wrap: break-word">
        ◾ Checking if a username is available.
        ◾ Identifying potentially malicious URLs in a web crawler.
    </td>
+  <td>https://www.linkedin.com/posts/alex-xu-a8131b11_systemdesign-coding-interviewtips-activity-6917494340315463680-O0sG/</td>
  </tr> 
   <tr>
    <td>2</td>
@@ -160,5 +162,65 @@ Useful Algorithms
    <td style="word-wrap: break-word">
    </td>
    <td>https://www.toptal.com/big-data/consistent-hashing</td> 
+ </tr> 
+  <tr>
+    <td>15</td>
+   <td>Leaky bucket</td>
+   <td style="word-wrap: break-word">
+◾ Rate Limiter.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+   <td>https://www.quora.com/What-is-the-difference-between-token-bucket-and-leaky-bucket-algorithms</td> 
+ </tr> 
+   <tr>
+    <td>16</td>
+   <td>token bucket</td>
+   <td style="word-wrap: break-word">
+◾ Rate Limiter.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+   <td>https://www.quora.com/What-is-the-difference-between-token-bucket-and-leaky-bucket-algorithms</td> 
+ </tr> 
+    <tr>
+    <td>17</td>
+   <td>Trie</td>
+   <td style="word-wrap: break-word">
+◾ Search Autocomplete.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+   <td>https://en.wikipedia.org/wiki/Trie</td> 
+ </tr> 
+  <tr>
+    <td>18</td>
+   <td>Rsync</td>
+   <td style="word-wrap: break-word">
+◾ File Transfers.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+   <td>https://rsync.samba.org/tech_report/</td> 
+ </tr> 
+   <tr>
+    <td>18</td>
+   <td>Raft</td>
+   <td style="word-wrap: break-word">
+◾ Consensus Algorithm.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+   <td>https://raft.github.io/</td> 
+ </tr> 
+    <tr>
+    <td>19</td>
+   <td>Paxos</td>
+   <td style="word-wrap: break-word">
+◾ Consensus Algorithm.
+   </td>
+   <td style="word-wrap: break-word">
+   </td>
+   <td>https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html</td> 
  </tr> 
 </table>
