@@ -7,6 +7,33 @@ Useful Algorithms
  <th>Usecases</th>
  <th>Useful Links</th>
  <tr>
+   <td>1</td>
+   <td>Kalman filter</td>
+     <td style="word-wrap: break-word">
+       ◾ as a person who makes a correct guess about something's location.
+       ◾ to find missing roads and update map data.
+       ◾for map matching.
+   </td>
+   <td></td>
+  <td></td>
+ </tr>
+  <tr>
+   <td>2</td>
+   <td>Viterbi algorithm</td>
+     <td style="word-wrap: break-word">
+       ◾ as a person who understands the correct story even if some words are spelled wrong.
+       ◾for map matching.
+   </td>
+   <td></td>
+  <td></td>
+ </tr>
+<table>
+ <th>No</th>
+ <th>Algorithm</th>
+ <th>Description</th>
+ <th>Usecases</th>
+ <th>Useful Links</th>
+ <tr>
   <td>1</td>
    <td>𝐁𝐥𝐨𝐨𝐦 𝐅𝐢𝐥𝐭𝐞𝐫</td>
    <td style="word-wrap: break-word">
