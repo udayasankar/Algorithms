@@ -478,6 +478,127 @@ Data structures
    <td style="word-wrap: break-word">
    </td>
   <td></td>
+ </tr>    
+  <tr>
+  <td>10</td>
+   <td>Breadth-First Search (BFS)</td>
+   <td style="word-wrap: break-word">
+       Explore a graph level by level, starting from the root, which is great for finding the shortest path in unweighted graphs. 
+   </td>
+   <td style="word-wrap: break-word"> 
+    ➡️ Useful when: You're designing web crawlers or analyzing social networks.
+   </td>
+  <td></td>
+ </tr>   
+   <tr>
+  <td>11</td>
+   <td>Two Heaps</td>
+   <td style="word-wrap: break-word">
+       Uses a min-heap and max-heap to manage dynamic datasets efficiently, maintaining median and priority. 
+   </td>
+   <td style="word-wrap: break-word"> 
+    ➡️ Useful when: You need to manage a priority queue or dynamic datasets.
+   </td>
+  <td></td>
  </tr>     
+  <tr>
+  <td>12</td>
+   <td>Two Pointers</td>
+   <td style="word-wrap: break-word">
+       This technique takes 2 points in a sequence and performs logic based on the problem.
+   </td>
+   <td style="word-wrap: break-word"> 
+   ➡️ Useful when: You are implementing sorting or searching functions.
+   </td>
+  <td></td>
+ </tr>     
+   <tr>
+  <td>13</td>
+   <td>Sliding Window</td>
+   <td style="word-wrap: break-word">
+       Optimizes the computation by reusing the state from the previous subset of data. 
+   </td>
+   <td style="word-wrap: break-word"> 
+  ➡️ Useful when: You're handling network congestion or data compression.
+   </td>
+  <td></td>
+ </tr>
+   <tr>
+  <td>14</td>
+   <td>Depth-First Search (DFS)</td>
+   <td style="word-wrap: break-word">
+      Explores each path to the end, ideal for situations that involve exploring all options like in puzzles. 
+   </td>
+   <td style="word-wrap: break-word"> 
+     ➡️ Useful when: You're working with graph structures or need to generate permutations.
+   </td>
+  <td></td>
+ </tr>    
+  <tr>
+  <td>15</td>
+   <td>Topological Sort</td>
+   <td style="word-wrap: break-word">
+      Helps in scheduling tasks based on their dependencies. 
+   </td>
+   <td style="word-wrap: break-word"> 
+      ➡️ Useful when: You are determining execution order in project management or compiling algorithms.
+   </td>
+  <td></td>
+ </tr>     
+   <tr>
+  <td>16</td>
+   <td> Merge Intervals</td>
+   <td style="word-wrap: break-word">
+      Optimizes overlapping intervals to minimize the number of intervals. 
+   </td>
+   <td style="word-wrap: break-word"> 
+      ➡️ Useful when: Scheduling resources or managing calendars.
+   </td>
+  <td></td>
+ </tr>     
+  <tr>
+  <td>17</td>
+   <td>Backtracking</td>
+   <td style="word-wrap: break-word">
+      It explores all potential solutions systematically and is perfect for solving puzzles and optimization problems.  
+   </td>
+   <td style="word-wrap: break-word"> 
+      ➡️ Useful when: Solving complex logical puzzles or optimizing resource allocations.
+   </td>
+  <td></td>
+ </tr> 
+  <tr>
+  <td>18</td>
+   <td>Trie (Prefix Tree)</td>
+   <td style="word-wrap: break-word">
+      A tree-like structure that manages dynamic sets of strings efficiently, often used for searching. 
+   </td>
+   <td style="word-wrap: break-word"> 
+      ➡️ Useful when: Implementing spell-checkers or autocomplete systems.
+   </td>
+  <td></td>
+ </tr>  
+  <tr>
+  <td>19</td>
+   <td>Flood Fill</td>
+   <td style="word-wrap: break-word">
+      It fills a contiguous area for features like the 'paint bucket' tool. 
+   </td>
+   <td style="word-wrap: break-word"> 
+      ➡️ Useful when: Working in graphics editors or game development.
+   </td>
+  <td></td>
+ </tr>  
+   <tr>
+  <td>20</td>
+   <td>Segment Tree</td>
+   <td style="word-wrap: break-word">
+      Efficiently manages intervals or segments and is useful for storing information about intervals and querying over them.
+   </td>
+   <td style="word-wrap: break-word"> 
+      ➡️ Useful when: Dealing with database range queries or statistical calculations.
+   </td>
+  <td></td>
+ </tr>  
 </table> 
  
