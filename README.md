@@ -1,7 +1,7 @@
 # Algorithms
-Useful Algorithms
 <h1>Data Structures in Practice</h1>
 <p>https://github.com/djiangtw/data-structures-in-practice-public</p>
+<h1>Useful Algorithms</h1>
 <table>
  <th>No</th>
  <th>Algorithm</th>
