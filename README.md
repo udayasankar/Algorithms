@@ -1,4 +1,9 @@
 # Algorithms
+Books
+
+Algorithms for Decision Making: https://media.licdn.com/dms/document/media/v2/D4D1FAQESaPMd03_DQQ/feedshare-document-pdf-analyzed/B4DZze8n15IoAg-/0/1773266980838?e=1774483200&v=beta&t=Vi2ANZUMA39LzT5_dqyaP1rh1W0lAAUemiLqpvdjoRg#page=50.45
+
+
 <h1>Data Structures in Practice</h1>
 <p>https://github.com/djiangtw/data-structures-in-practice-public</p>
 <h1>Useful Algorithms</h1>
